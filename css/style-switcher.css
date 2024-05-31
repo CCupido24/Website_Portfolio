@@ -58,7 +58,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
 }
-.style-switcher .color span
+.style-switcher .colors span
 {
    display: inline-block;
    height: 30px;
